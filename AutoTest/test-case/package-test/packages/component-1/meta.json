@@ -1,0 +1,16 @@
+{
+  "name": "test-package01",
+  "title": "组件b",
+  "remark": "组件b",
+  "zone": [
+    "content"
+  ],
+  "is_defalut_injected":0,
+  "group_name":"test",
+  "is_single": 0,
+  "is_hook": 0,
+  "client": [
+    "App",
+    "MobileSite"
+  ]
+}
